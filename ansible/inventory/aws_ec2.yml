@@ -16,9 +16,9 @@ filters:
     - onyi-nginx
     - onyi-tooling
     - onyi-wordpress
-    - onyi-sonarqube
-    - onyi-artifactory
-    - onyi-Jenkins
+    # - onyi-sonarqube
+    # - onyi-artifactory
+    # - onyi-Jenkins
   instance-state-name : running
   
 hostnames:
